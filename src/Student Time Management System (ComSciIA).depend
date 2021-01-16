@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1555181230 source:c:\users\alexander\documents\programming\ia\ student time management system (comsciia)\main.c
+	<stdio.h>
+	<stdlib.h>
+	"STMS.h"
+
+1555177253 c:\users\alexander\documents\programming\ia\ student time management system (comsciia)\stms.h
+
+1555181281 source:c:\users\alexander\documents\programming\ia\ student time management system (comsciia)\stmsfunctions.c
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"STMS.h"
+
+1554130879 source:c:\users\alexander\documents\programming\ia\ student time management system (comsciia)\stms.h
+
+1555198600 source:e:\student time management system (comsciia)\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"STMS.h"
+
+1555198936 e:\student time management system (comsciia)\stms.h
+
+1555197952 source:e:\student time management system (comsciia)\stmsfunctions.c
+	<conio.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"STMS.h"
+
+1555342066 source:c:\users\alexander\documents\programming\ia\student time management system (comsciia)\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"STMS.h"
+
+1555342066 c:\users\alexander\documents\programming\ia\student time management system (comsciia)\stms.h
+
+1555397310 source:c:\users\alexander\documents\programming\ia\student time management system (comsciia)\stmsfunctions.c
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"STMS.h"
+
+1555342066 source:c:\users\alexander\documents\programming\alexander williams 1000163072 computer science ia\code\main.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	"STMS.h"
+
+1555342066 c:\users\alexander\documents\programming\alexander williams 1000163072 computer science ia\code\stms.h
+
+1555397310 source:c:\users\alexander\documents\programming\alexander williams 1000163072 computer science ia\code\stmsfunctions.c
+	<conio.h>
+	<ctype.h>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"STMS.h"
+
